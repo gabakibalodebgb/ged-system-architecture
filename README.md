@@ -1,4 +1,3 @@
-
 # GED SYSTEM - MAIRIE DE OUÈSSÈ - ELECTRONIC DOCUMENT MANAGEMENT SYSTEM
 
 > Secure document management platform for municipal government administration in Benin
@@ -1421,5 +1420,3 @@ Access auto-generated Swagger UI at: `https://backend-ged.onrender.com/api/docs/
 ---
 
 **Built with precision for public service. 🇧🇯**
-
----
