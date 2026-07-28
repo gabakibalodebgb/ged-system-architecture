@@ -49,13 +49,13 @@ This is a **technical showcase repository** demonstrating the architecture and d
 
 ## 🎯 Overview
 
-**GED Mairie de Ouèssè** is a comprehensive Electronic Document Management System (EDMS) designed specifically for municipal government administration in Benin. The platform provides secure document storage, granular access control, complete audit trails, and version management for sensitive administrative documents.
+**GED System - Mairie de Ouèssè** is a comprehensive Electronic Document Management System (EDMS) designed specifically for municipal government administration in Benin. The platform provides secure document storage, granular access control, complete audit trails, and version management for sensitive administrative documents.
 
 ### Quick Stats
 
 | Metric | Value |
 |--------|-------|
-| **Client** | Mairie de Ouèssè (Municipal Government) |
+| **Client** | Mairies (Municipal Government) |
 | **Documents** | 50+ test documents |
 | **Users Testing** | 6 municipal staff |
 | **Services Configured** | 8 municipal departments |
@@ -191,16 +191,16 @@ A **government-grade digital document management platform** with military-level 
 - **HTTP Client:** Axios (interceptors for JWT refresh)
 
 ### Database
-- **RDBMS:** PostgreSQL 14+ (Render managed)
-- **Backup:** Daily automated backups (Render)
-- **Encryption:** At-rest encryption (Render managed)
+- **RDBMS:** PostgreSQL 14+ (`Render` managed)
+- **Backup:** Daily automated backups (`Render`)
+- **Encryption:** At-rest encryption (`Render` managed)
 - **Connection Pooling:** `conn_max_age=600` (persistent connections)
 
 ### Infrastructure
-- **Backend Hosting:** Render
+- **Backend Hosting:** `Render`
 - **Frontend Hosting:** Vercel
 - **Document Storage:** Cloudinary
-  - Cloud Name: `[configured via env]`
+  - Cloud Name: `ddpekbqpa`
   - Secure uploads: HTTPS only
   - CDN distribution: Automatic
 - **Email:** Planned (not yet implemented)
@@ -1341,8 +1341,8 @@ def finalize_large_upload(request):
 **For technical discussions or municipal deployment inquiries:**
 
 - **Company:** Propose Group
-- **Email:** propose@groupe.bj
-- **Developer:** Gabaki Borise Balode
+- **Email:** propose.group.pg@gmail.com
+- **Developer:** Gabaki Borise Balode (BGB)
 - **Personal Email:** gborisebalode@gmail.com
 - **LinkedIn:** [linkedin.com/in/g-borise-balode-bgb](https://linkedin.com/in/g-borise-balode-bgb)
 - **Portfolio:** [bgb-portfolio.vercel.app](https://bgb-portfolio.vercel.app)
@@ -1352,7 +1352,7 @@ def finalize_large_upload(request):
 ## 🛡️ License
 
 **Proprietary Software**  
-This system is proprietary to Mairie de Ouèssè and Propose Group. The production codebase is not open-source. This repository contains architectural documentation and technical explanations for portfolio and demonstration purposes only.
+This system is proprietary to `Propose Group`. The production codebase is not open-source. This repository contains architectural documentation and technical explanations for portfolio and demonstration purposes only.
 
 Documentation in this repository: MIT License
 
@@ -1363,7 +1363,7 @@ Documentation in this repository: MIT License
 Built to modernize municipal administration in Benin. Special thanks to:
 - **Mairie de Ouèssè** for trusting this digital transformation
 - **Municipal staff** for valuable feedback during testing phase
-- **Propose Group** for supporting development
+- **`Propose Group`** for supporting development
 
 ---
 
@@ -1373,20 +1373,6 @@ Screenshots and demo video use fictitious data. No actual municipal documents or
 ---
 
 **Last Updated:** July 2026
-
----
-
-## 📚 Additional Documentation
-
-**API Documentation:**  
-Access auto-generated Swagger UI at: `https://backend-ged.onrender.com/api/docs/`  
-(Requires authentication - demo credentials available on request)
-
-**Technical Specifications:**
-- Database schema diagrams (available on request)
-- API endpoint reference (Swagger/OpenAPI 3.0)
-- Deployment guide (Render + Vercel)
-- Security audit report (available to municipal authorities)
 
 ---
 
