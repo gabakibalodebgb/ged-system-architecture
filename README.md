@@ -1344,7 +1344,7 @@ def finalize_large_upload(request):
 - **Email:** propose.group.pg@gmail.com
 - **Developer:** Gabaki Borise Balode (BGB)
 - **Personal Email:** gborisebalode@gmail.com
-- **LinkedIn:** [linkedin.com/in/g-borise-balode-bgb](https://linkedin.com/in/g-borise-balode-bgb)
+- **LinkedIn:** [linkedin.com/in/gabakibalodebgb](https://linkedin.com/in/gabakibalodebgb)
 - **Portfolio:** [bgb-portfolio.vercel.app](https://bgb-portfolio.vercel.app)
 
 ---
