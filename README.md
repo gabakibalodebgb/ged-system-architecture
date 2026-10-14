@@ -55,7 +55,7 @@ This is a **technical showcase repository** demonstrating the architecture and d
 
 | Metric | Value |
 |--------|-------|
-| **Client** | Mairies (Municipal Government) |
+| **Target Institution** | Mairie de Ouèssè (demo completed, no contract signed yet) |
 | **Documents** | 50+ test documents |
 | **Users Testing** | 6 municipal staff |
 | **Services Configured** | 8 municipal departments |
@@ -1323,16 +1323,14 @@ def finalize_large_upload(request):
 
 ### Project Context
 
-**Client:** Mairie de Ouèssè (Municipal Government of Ouèssè, Benin)
+**Target Institution:** Mairie de Ouèssè (Municipal Government of Ouèssè, Benin) 
+— demo presented, positive feedback received, no contract signed to date
 
-**Developer:** Propose Group (Tech Division)
-- Full system architecture & design
-- Solo full-stack development
-- Database schema design
-- Security implementation (JWT, RBAC, audit trail)
-- DevOps & deployment (Render, Vercel, Cloudinary)
+**Developer:** Propose Group (Tech Division) — sole developer and owner of the codebase
+[...]
 
-**Status:** Production testing phase, pending official municipal adoption
+**Status:** Independently developed, self-funded demo system. Currently 
+seeking official adoption; no formal agreement in place yet.
 
 ---
 
@@ -1360,8 +1358,8 @@ Documentation in this repository: MIT License
 
 ## 🙏 Acknowledgments
 
-Built to modernize municipal administration in Benin. Special thanks to:
-- **Mairie de Ouèssè** for trusting this digital transformation
+Special thanks to:
+- **Mairie de Ouèssè** for their positive feedback during the demo presentation
 - **Municipal staff** for valuable feedback during testing phase
 - **`Propose Group`** for supporting development
 
